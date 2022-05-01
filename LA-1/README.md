@@ -1,3 +1,3 @@
-![](img_LA1_1)
+![](img_LA1_1.png)
 
-![](img_LA1_2)
+![](img_LA1_2.png)
