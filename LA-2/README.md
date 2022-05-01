@@ -56,6 +56,7 @@ Output 25   32    12.56
 
 **Question 3.** An object is thrown near a cliff as depicted in the following figure
 
+![](img1.png)
 
 Write a program which calculates after s seconds whether the object hits the ground or not. Your program will read three double values, x velocity ( ), the height of the cliff ( ), and seconds passed (s). After the object is thrown, it will start moving to the right with a CONSTANT speed of V\_x. At the same time, it will start to drop down due to gravity. The vertical distance the object will cover by falling after t seconds is calculated by the formula given below.
 
