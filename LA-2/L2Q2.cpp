@@ -6,7 +6,7 @@ int main(){
     cout << "-----------------------------------------------------------------------------------\n";
     cout << "               Computes and displays the area of a geometrical shape               \n";
 	cout << "-----------------------------------------------------------------------------------\n";
-    cout << "                            Yusufhan Saçak      2105131                      \n\n\n\n";
+    cout << "                            Yusufhan Saçak                           \n\n\n\n";
 
     char type;
     double a=0, h=0, r=0, PI=3.14;
