@@ -7,7 +7,7 @@ int main(){
     cout << "-----------------------------------------------------------------------------------\n";
     cout << "       Calculates after s seconds whether the object hits the ground or not               \n";
 	cout << "-----------------------------------------------------------------------------------\n";
-    cout << "                            Yusufhan Saçak      2105131                      \n\n\n\n";
+    cout << "                            Yusufhan Saçak                            \n\n\n\n";
 
     double V_x, h, s, x, g=9.81, t, t_square;
 
